@@ -1,0 +1,74 @@
+{
+    "editor.fontSize": 17,
+    "editor.bracketPairColorization.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "prettier.tabWidth": 4,
+    "editor.fontLigatures": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "explorer.confirmDragAndDrop": false,
+    "cSpell.userWords": [],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "reactSnippets.settings.prettierEnabled": true,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "window.menuBarVisibility": "visible",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.js": "javascript"
+    },
+    "window.titleBarStyle": "custom",
+    "editor.fontFamily": "'Droid Sans Mono','Fira Code', 'monospace', monospace",
+    "workbench.iconTheme": "material-icon-theme",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css/"
+        }
+    ],
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#dd0531"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#61dafb"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Svelte Orange",
+            "value": "#ff3d00"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ]
+}
