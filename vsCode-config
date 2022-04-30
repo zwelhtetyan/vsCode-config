@@ -1,10 +1,7 @@
 {
     "editor.linkedEditing": true,
     "editor.guides.bracketPairs": "active",
-    "bracket-pair-colorizer-2.forceIterationColorCycle": true,
-    "bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
-    "bracket-pair-colorizer-2.highlightActiveScope": true,
-    "editor.fontSize": 17,
+    "editor.fontSize": 16.5,
     "editor.bracketPairColorization.enabled": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "terminal.integrated.defaultProfile.linux": "bash",
@@ -14,7 +11,6 @@
         "editor.defaultFormatter": "vscode.html-language-features"
     },
     "explorer.confirmDelete": false,
-    "bracketPairColorizer.depreciation-notice": false,
     "explorer.confirmDragAndDrop": false,
     "cSpell.userWords": [],
     "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -26,16 +22,22 @@
     "window.menuBarVisibility": "visible",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "files.associations": {
-        "*.js": "javascript"
+        "*.js": "javascript",
+        "*.jsx": "javascriptreact"
     },
     "window.titleBarStyle": "custom",
-    "editor.fontFamily": "'Droid Sans Mono','Fira Code', 'monospace', monospace",
     "workbench.iconTheme": "material-icon-theme",
     "liveSassCompile.settings.formats": [
         {
             "format": "expanded",
             "extensionName": ".css",
-            "savePath": "/css/"
+            "savePath": "/src/css/"
         }
     ],
+    "security.workspace.trust.enabled": false,
+    "editor.fontFamily": "'Fira Code','JetBrainsMono','Droid Sans Mono', 'monospace', monospace",
+    "emmet.includeLanguages": {
+        "\"javascript\"": "\"javascriptreact\""
+    },
+    "[javascriptreact]": {}
 }
