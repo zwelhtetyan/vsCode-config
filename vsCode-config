@@ -1,4 +1,5 @@
 {
+    "workbench.colorTheme": "Default Dark+",
     "editor.linkedEditing": true,
     "editor.guides.bracketPairs": "active",
     "editor.fontSize": 16.5,
@@ -26,7 +27,6 @@
         "*.jsx": "javascriptreact"
     },
     "window.titleBarStyle": "custom",
-    "workbench.iconTheme": "material-icon-theme",
     "liveSassCompile.settings.formats": [
         {
             "format": "expanded",
@@ -39,5 +39,6 @@
     "emmet.includeLanguages": {
         "\"javascript\"": "\"javascriptreact\""
     },
-    "[javascriptreact]": {}
+    "[javascriptreact]": {},
+    "workbench.iconTheme": "material-icon-theme"
 }
