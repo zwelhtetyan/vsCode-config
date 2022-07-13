@@ -1,0 +1,44 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.linkedEditing": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.fontSize": 16.5,
+    "editor.bracketPairColorization.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "prettier.tabWidth": 4,
+    "editor.fontLigatures": false,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "cSpell.userWords": [],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "reactSnippets.settings.prettierEnabled": true,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.formatOnSave": true,
+    "window.menuBarVisibility": "visible",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "files.associations": {
+        "*.js": "javascript",
+        "*.jsx": "javascriptreact"
+    },
+    "window.titleBarStyle": "custom",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/src/css/"
+        }
+    ],
+    "security.workspace.trust.enabled": false,
+    "editor.fontFamily": "'Fira Code','JetBrainsMono','Droid Sans Mono', 'monospace', monospace",
+    "emmet.includeLanguages": {
+        "\"javascript\"": "\"javascriptreact\""
+    },
+    "[javascriptreact]": {},
+    "workbench.iconTheme": "material-icon-theme"
+}
